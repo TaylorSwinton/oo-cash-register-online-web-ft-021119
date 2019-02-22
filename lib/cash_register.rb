@@ -21,7 +21,7 @@ class CashRegister
   end
 
   def method_name
-    
+
   end
 
 end
