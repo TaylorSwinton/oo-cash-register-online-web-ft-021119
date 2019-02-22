@@ -20,8 +20,8 @@ class CashRegister
     return "After the discount, the total comes to $#{@total}."
   end
 
-  def method_name
-
+  def items
+    @@items
   end
 
   def void_last_transaction
